@@ -1,0 +1,5 @@
+.row-head-wrap {
+    border: 1px solid;
+    display: flex;
+    justify-content: space-around;
+}
